@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction à JavaScript",
+    "content": "Cet article présente les bases du langage JavaScript et son importance dans le développement web moderne."
+  },
+  {
+    "id": 2,
+    "title": "Comprendre les API REST",
+    "content": "Une API REST permet la communication entre applications via des requêtes HTTP. Découvrez les concepts clés."
+  },
+  {
+    "id": 3,
+    "title": "Découvrir React",
+    "content": "React est une bibliothèque JavaScript pour construire des interfaces utilisateur dynamiques et performantes."
+  },
+  {
+    "id": 4,
+    "title": "Guide sur Node.js",
+    "content": "Node.js permet d’exécuter du JavaScript côté serveur. Cet article couvre les bases et les cas d’usage."
+  },
+  {
+    "id": 5,
+    "title": "Introduction à MongoDB",
+    "content": "MongoDB est une base NoSQL orientée documents. Découvrez ses principaux concepts et avantages."
+  }
+]
